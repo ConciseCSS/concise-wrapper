@@ -1,0 +1,40 @@
+{
+  "name": "concise-wrapper",
+  "version": "1.0.0",
+  "description": "Concise.css + Concise UI + Concise Utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "jake default"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConciseCSS/concise-wrapper.git"
+  },
+  "keywords": [
+    "concise",
+    "scss",
+    "css",
+    "framework",
+    "ui",
+    "utils",
+    "wrapper"
+  ],
+  "author": "James Kolce",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ConciseCSS/concise-wrapper/issues"
+  },
+  "homepage": "https://github.com/ConciseCSS/concise-wrapper#readme",
+  "dependencies": {
+    "concise-cli": "^0.4.1",
+    "concise-ui": "^0.2.0",
+    "concise-utils": "^1.0.0",
+    "concise.css": "^4.0.1"
+  },
+  "devDependencies": {
+    "chokidar-cli": "^1.2.0",
+    "cssnano-cli": "^1.0.5",
+    "jake": "^8.0.15"
+  }
+}

@@ -10,7 +10,7 @@ npm install concise-wrapper
 ```
 
 ```scss
-`@import 'node_modules/concise-wrapper/concise';
+@import 'node_modules/concise-wrapper/concise';
 ```
 
 ## License
